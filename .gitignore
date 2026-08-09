@@ -29,3 +29,9 @@ imagens/originais/
 imagens/*.psd
 imagens/*.raw
 imagens/*.xcf
+
+# Arquivos e pastas locais que não devem ser enviados ao GitHub
+AGENTS.md
+subir.bat
+templates/
+

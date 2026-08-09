@@ -8,7 +8,7 @@ Navegue pelas receitas de família através das categorias abaixo. Uma mesma rec
 
 *Lista de sobremesas, bolos doces, tortas e guloseimas.*
 
-- [Mexido de Banana](file:///D:/Projects_IA/Development/receitas_touso/receitas/mexido-de-banana.md) *(Também em Outros)*
+- [Mexido de Banana](receitas/mexido-de-banana.md) *(Também em Outros)*
 
 ---
 
@@ -32,4 +32,4 @@ Navegue pelas receitas de família através das categorias abaixo. Uma mesma rec
 
 *Receitas que não se encaixam necessariamente nas categorias acima.*
 
-- [Mexido de Banana](file:///D:/Projects_IA/Development/receitas_touso/receitas/mexido-de-banana.md) *(Também em Doces)*
+- [Mexido de Banana](receitas/mexido-de-banana.md) *(Também em Doces)*
