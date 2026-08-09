@@ -1,0 +1,31 @@
+# Windows / IDEs / Sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDEs específicas
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Arquivos temporários e backups de edição
+*~
+*.tmp
+*.bak
+*.swp
+
+# Pastas criadas por ferramentas de ambiente virtual ou gerenciadores de pacotes
+node_modules/
+.gemini/
+
+# Arquivos de imagem pesados ou originais que não devem ir ao repositório
+# (Caso queira reter versões originais pesadas localmente em uma subpasta específica)
+imagens/originais/
+imagens/*.psd
+imagens/*.raw
+imagens/*.xcf
