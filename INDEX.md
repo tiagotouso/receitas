@@ -20,13 +20,16 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 
 ## 🍽️ Lista Completa de Receitas (Acesso Direto)
 
+* **Bife à Parmegiana 🥩🍅** - [Ver Receita](receitas/bife-a-parmegiana.md) `[Clássico]` `[Forno]`
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](receitas/frango-assado-com-creme-de-milho.md) `[Conforto]` `[Forno]`
 * **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](receitas/fraldinha-na-pressao-com-aligot.md) `[Especial]` `[Pressão]`
 * **Lasanha de Carne Moída 🍝** - [Ver Receita](receitas/lasanha-de-carne-moida.md) `[Almoço]` `[Forno]`
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](receitas/macarrao-fresco-com-tomates-pelados.md) `[Rápido]` `[Clássico]`
 * **Mexido de Banana 🍌** - [Ver Receita](receitas/mexido-de-banana.md) `[Rápido]` `[Lanche]`
 * **Nhoque de Batata 🥔** - [Ver Receita](receitas/nhoque-de-batata.md) `[Massa]` `[Clássico]`
+* **Rosquinha de Queijo 🧀** - [Ver Receita](receitas/rosquinha-de-queijo.md) `[Lanche]` `[Assado]`
 * **Tareco 🥞** - [Ver Receita](receitas/tareco.md) `[Lanche]` `[Café]`
+
 
 
 
