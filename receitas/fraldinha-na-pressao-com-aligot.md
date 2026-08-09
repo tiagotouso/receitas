@@ -60,3 +60,8 @@
 ### 💡 Dicas e Variações
 - *Você pode substituir o queijo Gruyère por queijo Minas Padrão bem curado ou queijo Coalho ralado se preferir um toque regional brasileiro.*
 - *Sirva a fraldinha fatiada sobre uma base generosa de aligot bem quente, regando tudo com o molho de cebolas caramelizadas que se formou no fundo da panela de pressão.*
+
+---
+
+[« Voltar para o Índice](../INDEX.md)
+

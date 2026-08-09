@@ -40,3 +40,8 @@
 ### 💡 Dicas e Variações
 - *Dica: Você pode usar farinha de mandioca como substituta se preferir outra textura.*
 - *Variação: Adicione uma pitada de canela em pó para dar um toque aromático especial.*
+
+---
+
+[« Voltar para o Índice](../INDEX.md)
+

@@ -13,8 +13,8 @@
 ---
 
 ### 📷 Foto do Prato
-![Foto do prato](../imagens/tareco-placeholder.jpg)  
-*(Substitua `tareco-placeholder.jpg` pelo nome real da foto salva na pasta `imagens/`)*
+![Foto do prato](../imagens/fa8e54d8-c923-42bf-bd55-5c12f45819df.png)  
+
 
 ---
 
@@ -49,3 +49,8 @@
 - *Dica 1: Para incrementar o seu bolinho, você pode adicionar raspas de limão ou 1 colher de chá de extrato de baunilha, para perfumar a massa.*
 - *Dica 2: Outra forma de deixar a receita mais saborosa é adicionar coco ralado no preparo da massa.*
 - *Dica 3: Sirva o seu tareco com requeijão cremoso, doce de leite ou geleia de frutas.*
+
+---
+
+[« Voltar para o Índice](../INDEX.md)
+

@@ -9,6 +9,7 @@ Navegue pelas receitas de família através das categorias abaixo. Uma mesma rec
 *Lista de sobremesas, bolos doces, tortas e guloseimas.*
 
 - [Mexido de Banana](receitas/mexido-de-banana.md) *(Também em Outros)*
+- [Tareco](receitas/tareco.md) *(Também em Outros)*
 
 ---
 
@@ -17,6 +18,7 @@ Navegue pelas receitas de família através das categorias abaixo. Uma mesma rec
 *Pratos salgados, tortas salgadas, petiscos e refeições principais.*
 
 - [Fraldinha na Pressão com Aligot](receitas/fraldinha-na-pressao-com-aligot.md) *(Também em Outros)*
+- [Coxa e Sobrecoxa de Frango Assadas com Creme de Milho](receitas/frango-assado-com-creme-de-milho.md) *(Também em Assados)*
 
 ---
 
@@ -24,7 +26,7 @@ Navegue pelas receitas de família através das categorias abaixo. Uma mesma rec
 
 *Tudo que vai ao forno (bolos, tortas, carnes assadas, pães).*
 
-- *Nenhuma receita cadastrada nesta categoria ainda.*
+- [Coxa e Sobrecoxa de Frango Assadas com Creme de Milho](receitas/frango-assado-com-creme-de-milho.md) *(Também em Salgados)*
 
 ---
 
@@ -34,3 +36,4 @@ Navegue pelas receitas de família através das categorias abaixo. Uma mesma rec
 
 - [Mexido de Banana](receitas/mexido-de-banana.md) *(Também em Doces)*
 - [Fraldinha na Pressão com Aligot](receitas/fraldinha-na-pressao-com-aligot.md) *(Também em Salgados)*
+- [Tareco](receitas/tareco.md) *(Também em Doces)*
