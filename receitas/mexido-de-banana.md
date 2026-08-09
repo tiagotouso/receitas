@@ -44,7 +44,8 @@
 
 ---
 
-📖 [« Voltar para o Índice Geral](../INDEX.md) | 🍰 [« Voltar para o Índice de Doces](INDEX_DOCES.md)
+📖 [« Voltar para o Índice Geral](../INDEX.md) | 🍰 [« Voltar para o Índice de Doces](INDEX_DOCES.md) | 📋 [« Voltar ao Índice Completo](INDEX_COMPLETO.md)
+
 
 
 
