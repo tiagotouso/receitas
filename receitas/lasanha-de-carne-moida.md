@@ -8,7 +8,7 @@
 - **Tempo de preparo:** 45 minutos ⏱️
 - **Rendimento:** 6 a 8 porções 🍽️
 - **Categorias:** Salgados / Massas / Prato Principal 🍝🥩
-- **Autor/Origem:** TudoGostoso 👩‍🍳
+
 
 ---
 

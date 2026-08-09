@@ -9,7 +9,7 @@
 - **Tempo de preparo:** 40 minutos ⏱️
 - **Rendimento:** 17 unidades 🍽️
 - **Categorias:** Doces / Bolacha 🥞
-- **Autor/Origem:** Rodrigo Vilasbôas 👨‍🍳
+
 
 ---
 

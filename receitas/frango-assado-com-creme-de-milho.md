@@ -9,7 +9,7 @@
 - **Tempo de preparo:** 60 minutos ⏱️
 - **Rendimento:** 4 porções 🍽️
 - **Categorias:** Prato Principal / Aves 🍗
-- **Autor/Origem:** Usuário 👨‍🍳
+
 
 ---
 

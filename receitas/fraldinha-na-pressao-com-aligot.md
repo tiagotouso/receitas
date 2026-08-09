@@ -9,7 +9,7 @@
 - **Tempo de preparo:** 60 minutos ⏱️
 - **Rendimento:** 6 porções 🍽️
 - **Categorias:** Carne Bovina / Acompanhamento / Panela de Pressão 🍖🥣
-- **Autor/Origem:** Tradicional / Adaptado 👨‍🍳
+
 
 ---
 

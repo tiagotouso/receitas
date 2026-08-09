@@ -9,7 +9,7 @@
 - **Tempo de preparo:** 15 minutos ⏱️
 - **Rendimento:** 2 porções 🍽️
 - **Categorias:** Lanches 🥪
-- **Autor/Origem:** Kelly mara da silva 👩‍🍳
+
 
 ---
 
