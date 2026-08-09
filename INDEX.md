@@ -16,7 +16,7 @@ Navegue pelas receitas de família através das categorias abaixo. Uma mesma rec
 
 *Pratos salgados, tortas salgadas, petiscos e refeições principais.*
 
-- *Nenhuma receita cadastrada nesta categoria ainda.*
+- [Fraldinha na Pressão com Aligot](receitas/fraldinha-na-pressao-com-aligot.md) *(Também em Outros)*
 
 ---
 
@@ -33,3 +33,4 @@ Navegue pelas receitas de família através das categorias abaixo. Uma mesma rec
 *Receitas que não se encaixam necessariamente nas categorias acima.*
 
 - [Mexido de Banana](receitas/mexido-de-banana.md) *(Também em Doces)*
+- [Fraldinha na Pressão com Aligot](receitas/fraldinha-na-pressao-com-aligot.md) *(Também em Salgados)*
