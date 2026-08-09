@@ -1,39 +1,18 @@
-# Índice de Receitas 📖
+# Índice de Receitas de Família 📖
 
-Navegue pelas receitas de família através das categorias abaixo. Uma mesma receita pode aparecer em mais de uma seção (ex: um bolo que é Doce e Assado).
-
----
-
-## 🍰 Doces
-
-*Lista de sobremesas, bolos doces, tortas e guloseimas.*
-
-- [Mexido de Banana](receitas/mexido-de-banana.md) *(Também em Outros)*
-- [Tareco](receitas/tareco.md) *(Também em Outros)*
+Este repositório contém as receitas culinárias da nossa família. 
+Para facilitar a visualização e busca conforme o acervo cresce, as receitas foram separadas em índices específicos de acordo com a categoria principal:
 
 ---
 
-## 🍕 Salgados
+## 📂 Categorias de Receitas
 
-*Pratos salgados, tortas salgadas, petiscos e refeições principais.*
+* 🍰 **[Ir para o Índice de Doces](receitas/INDEX_DOCES.md)**
+  *Bolos doces, tortas doces, sobremesas, pudins e guloseimas.*
 
-- [Fraldinha na Pressão com Aligot](receitas/fraldinha-na-pressao-com-aligot.md) *(Também em Outros)*
-- [Coxa e Sobrecoxa de Frango Assadas com Creme de Milho](receitas/frango-assado-com-creme-de-milho.md) *(Também em Assados)*
-
----
-
-## 🔥 Assados
-
-*Tudo que vai ao forno (bolos, tortas, carnes assadas, pães).*
-
-- [Coxa e Sobrecoxa de Frango Assadas com Creme de Milho](receitas/frango-assado-com-creme-de-milho.md) *(Também em Salgados)*
+* 🍕 **[Ir para o Índice de Salgados](receitas/INDEX_SALGADOS.md)**
+  *Pratos salgados, carnes, massas, aves, acompanhamentos e petiscos.*
 
 ---
 
-## 🍲 Outros (Cozidos, Fritos, Bebidas, etc.)
-
-*Receitas que não se encaixam necessariamente nas categorias acima.*
-
-- [Mexido de Banana](receitas/mexido-de-banana.md) *(Também em Doces)*
-- [Fraldinha na Pressão com Aligot](receitas/fraldinha-na-pressao-com-aligot.md) *(Também em Salgados)*
-- [Tareco](receitas/tareco.md) *(Também em Doces)*
+*Para aprender a cadastrar novas receitas e imagens no repositório, consulte as instruções no [README.md](../README.md).*
