@@ -15,12 +15,15 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, agrupadas e 
 
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](frango-assado-com-creme-de-milho.md)
 * **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](fraldinha-na-pressao-com-aligot.md)
+* **Lasanha de Carne Moída 🍝** - [Ver Receita](lasanha-de-carne-moida.md)
 
 ---
 
 ## 🔥 Assados
 
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](frango-assado-com-creme-de-milho.md)
+* **Lasanha de Carne Moída 🍝** - [Ver Receita](lasanha-de-carne-moida.md)
+
 
 ---
 

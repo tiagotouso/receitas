@@ -22,8 +22,10 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](receitas/frango-assado-com-creme-de-milho.md)
 * **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](receitas/fraldinha-na-pressao-com-aligot.md)
+* **Lasanha de Carne Moída 🍝** - [Ver Receita](receitas/lasanha-de-carne-moida.md)
 * **Mexido de Banana 🍌** - [Ver Receita](receitas/mexido-de-banana.md)
 * **Tareco 🥞** - [Ver Receita](receitas/tareco.md)
+
 
 ---
 
