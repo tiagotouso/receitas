@@ -1,30 +1,39 @@
-# Receitas de Família 🍳
+# Índice Geral de Receitas 📖
 
-Este repositório contém as receitas culinárias da nossa família, organizadas para fácil acesso e contribuição.
-
-## 📂 Estrutura do Repositório
-
-As receitas são escritas em Markdown e organizadas por categorias. Imagens ilustrativas de cada prato são armazenadas na pasta `imagens/`.
-
-- `README.md` - Este arquivo (apresentação e instruções).
-- `INDEX.md` - O índice principal categorizado de todas as receitas.
-- `templates/` - Modelos para criação de novas receitas e do próprio índice.
-- `receitas/` - Pasta contendo os arquivos `.md` das receitas individuais.
-- `imagens/` - Pasta contendo fotos dos pratos.
+Bem-vindo ao livro digital de receitas de família! 
+Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista geral e os subíndices temáticos:
 
 ---
 
-## 📝 Como Adicionar uma Nova Receita
+## 📂 Índices por Categoria
 
-1. **Copie o modelo de receita**: Use o arquivo em [`templates/modelo-receita.md`](file:///D:/Projects_IA/Development/receitas_touso/templates/modelo-receita.md) como base.
-2. **Preencha os dados**: Adicione o título, ingredientes, modo de preparo, tempo, rendimento e fotos (salvas em `imagens/`).
-3. **Salve o arquivo**: Guarde na pasta `receitas/` com um nome amigável em minúsculas (ex: `receitas/bolo-de-cenoura.md`).
-4. **Atualize o Índice**: Adicione o link para a nova receita no arquivo [`INDEX.md`](file:///D:/Projects_IA/Development/receitas_touso/INDEX.md) sob as categorias adequadas (uma receita pode estar em mais de uma categoria, por exemplo, "Doces" e "Assados").
+* 🍰 **[Ir para o Índice de Doces](receitas/INDEX_DOCES.md)**
+  *Bolos doces, sobremesas, bolinhos e guloseimas.*
+
+* 🍕 **[Ir para o Índice de Salgados](receitas/INDEX_SALGADOS.md)**
+  *Pratos principais, acompanhamentos, carnes e salgados.*
+
+* 📋 **[Ir para o Índice Completo Ordenado](receitas/INDEX_COMPLETO.md)**
+  *Todas as receitas do repositório em uma única lista organizada por tipos.*
 
 ---
 
-## 🛠️ Contribuição e Boas Práticas
+## 🍽️ Lista Completa de Receitas (Acesso Direto)
 
-- **Imagens**: Evite subir fotos muito pesadas. O ideal é que tenham menos de 1MB.
-- **Formato**: Mantenha o padrão de organização do modelo para que todas as receitas fiquem legíveis e uniformes.
-- **Categorias**: Se a receita se encaixar em múltiplos tipos, lembre-se de listá-la em todos eles no índice.
+* **Bife à Parmegiana 🥩🍅** - [Ver Receita](receitas/bife-a-parmegiana.md) `[Clássico]` `[Forno]`
+* **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](receitas/frango-assado-com-creme-de-milho.md) `[Conforto]` `[Forno]`
+* **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](receitas/fraldinha-na-pressao-com-aligot.md) `[Especial]` `[Pressão]`
+* **Lasanha de Carne Moída 🍝** - [Ver Receita](receitas/lasanha-de-carne-moida.md) `[Almoço]` `[Forno]`
+* **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](receitas/macarrao-fresco-com-tomates-pelados.md) `[Rápido]` `[Clássico]`
+* **Mexido de Banana 🍌** - [Ver Receita](receitas/mexido-de-banana.md) `[Rápido]` `[Lanche]`
+* **Nhoque de Batata 🥔** - [Ver Receita](receitas/nhoque-de-batata.md) `[Massa]` `[Clássico]`
+* **Rosquinha de Queijo 🧀** - [Ver Receita](receitas/rosquinha-de-queijo.md) `[Lanche]` `[Assado]`
+* **Tareco 🥞** - [Ver Receita](receitas/tareco.md) `[Lanche]` `[Café]`
+
+
+
+
+
+---
+
+*Para aprender a cadastrar novas receitas e imagens no repositório, consulte as instruções no [README.md](../README.md).*
