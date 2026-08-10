@@ -9,11 +9,14 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 | Prato | Categoria | Tempo | Dificuldade | Tags |
 | :--- | :---: | :---: | :---: | :--- |
 | [Bife à Parmegiana 🥩🍅](bife-a-parmegiana.md) | 🍕 Salgado / 🔥 Assado | 25 min ⏱️ | Fácil 🟢 | `[Clássico]` `[Carne]` `[Forno]` |
+| [Bolo de Cenoura 🥕🍫](bolo-de-cenoura.md) | 🍰 Doce / 🔥 Assado | 40 min ⏱️ | Fácil 🟢 | `[Bolo]` `[Chocolate]` `[Lanche]` |
 | [Mexido de Banana 🍌](mexido-de-banana.md) | 🍰 Doce / 🍲 Outros | 15 min ⏱️ | Fácil 🟢 | `[Rápido]` `[Lanche]` `[Frigideira]` |
 | [Mousse de Limão com Chocolate 🍋🍫](mousse-de-limao-com-chocolate.md) | 🍰 Doce / ❄️ Gelado | 20 min ⏱️ | Fácil 🟢 | `[Doce]` `[Gelado]` `[Sobremesa]` |
+| [Mousse de Maracujá com Chocolate 🍈🍫](mousse-de-maracuja-com-chocolate.md) | 🍰 Doce / ❄️ Gelado | 20 min ⏱️ | Fácil 🟢 | `[Doce]` `[Gelado]` `[Sobremesa]` |
 | [Rosquinha de Queijo 🧀](rosquinha-de-queijo.md) | 🍰 Doce / 🔥 Assado | 40 min ⏱️ | Fácil 🟢 | `[Lanche]` `[Queijo]` `[Assado]` |
 | [Tareco 🥞](tareco.md) | 🍰 Doce / 🍲 Outros | 40 min ⏱️ | Fácil 🟢 | `[Café da Manhã]` `[Lanche]` `[Frigideira]` |
 | [Lasanha de Carne Moída 🍝](lasanha-de-carne-moida.md) | 🍕 Salgado / 🔥 Assado | 45 min ⏱️ | Média 🟡 | `[Almoço de Domingo]` `[Massa]` `[Forno]` |
+| [Lombo Suíno ao Molho de Laranja 🍖🍊](lombo-suino-ao-molho-de-laranja.md) | 🍕 Salgado / 🔥 Assado | 80 min ⏱️ | Média 🟡 | `[Especial]` `[Carne]` `[Forno]` |
 | [Macarrão fresco com tomates pelados 🍝](macarrao-fresco-com-tomates-pelados.md) | 🍕 Salgado / 🍲 Outros | 45 min ⏱️ | Fácil 🟢 | `[Clássico]` `[Massa]` `[Rápido]` |
 | [Fraldinha na Pressão com Aligot 🍖](fraldinha-na-pressao-com-aligot.md) | 🍕 Salgado / 🍲 Outros | 60 min ⏱️ | Avançada 🔴 | `[Especial]` `[Carne]` `[Queijo]` `[Pressão]` |
 | [Coxa e Sobrecoxa de Frango com Creme de Milho 🍗🌽](frango-assado-com-creme-de-milho.md) | 🍕 Salgado / 🔥 Assado | 60 min ⏱️ | Média 🟡 | `[Conforto]` `[Aves]` `[Forno]` |
@@ -22,8 +25,10 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 
 ## 🍰 Doces
 
+* **Bolo de Cenoura 🥕🍫** - [Ver Receita](bolo-de-cenoura.md) `[Doce]` `[Assado]` `[Bolo]`
 * **Mexido de Banana 🍌** - [Ver Receita](mexido-de-banana.md) `[Rápido]` `[Lanche]` `[Frigideira]`
 * **Mousse de Limão com Chocolate 🍋🍫** - [Ver Receita](mousse-de-limao-com-chocolate.md) `[Doce]` `[Gelado]` `[Sobremesa]`
+* **Mousse de Maracujá com Chocolate 🍈🍫** - [Ver Receita](mousse-de-maracuja-com-chocolate.md) `[Doce]` `[Gelado]` `[Sobremesa]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](rosquinha-de-queijo.md) `[Lanche]` `[Queijo]` `[Assado]`
 * **Tareco 🥞** - [Ver Receita](tareco.md) `[Café da Manhã]` `[Lanche]` `[Frigideira]`
 
@@ -35,6 +40,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](frango-assado-com-creme-de-milho.md) `[Conforto]` `[Aves]` `[Forno]`
 * **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](fraldinha-na-pressao-com-aligot.md) `[Especial]` `[Carne]` `[Queijo]` `[Pressão]`
 * **Lasanha de Carne Moída 🍝** - [Ver Receita](lasanha-de-carne-moida.md) `[Almoço de Domingo]` `[Massa]` `[Forno]`
+* **Lombo Suíno ao Molho de Laranja 🍖🍊** - [Ver Receita](lombo-suino-ao-molho-de-laranja.md) `[Especial]` `[Carne]` `[Forno]`
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]` `[Rápido]`
 * **Nhoque de Batata 🥔** - [Ver Receita](nhoque-de-batata.md) `[Massa]` `[Clássico]` `[Almoço]`
 
@@ -42,8 +48,10 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 
 ## 🔥 Assados
 
+* **Bolo de Cenoura 🥕🍫** - [Ver Receita](bolo-de-cenoura.md) `[Doce]` `[Assado]` `[Bolo]`
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](frango-assado-com-creme-de-milho.md) `[Conforto]` `[Aves]` `[Forno]`
 * **Lasanha de Carne Moída 🍝** - [Ver Receita](lasanha-de-carne-moida.md) `[Almoço de Domingo]` `[Massa]` `[Forno]`
+* **Lombo Suíno ao Molho de Laranja 🍖🍊** - [Ver Receita](lombo-suino-ao-molho-de-laranja.md) `[Especial]` `[Carne]` `[Forno]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](rosquinha-de-queijo.md) `[Lanche]` `[Queijo]` `[Assado]`
 
 ---
