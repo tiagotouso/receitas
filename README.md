@@ -26,6 +26,7 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 * **Lasanha de Carne Moída 🍝** - [Ver Receita](receitas/lasanha-de-carne-moida.md) `[Almoço]` `[Forno]`
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](receitas/macarrao-fresco-com-tomates-pelados.md) `[Rápido]` `[Clássico]`
 * **Mexido de Banana 🍌** - [Ver Receita](receitas/mexido-de-banana.md) `[Rápido]` `[Lanche]`
+* **Mousse de Limão com Chocolate 🍋🍫** - [Ver Receita](receitas/mousse-de-limao-com-chocolate.md) `[Doce]` `[Gelado]`
 * **Nhoque de Batata 🥔** - [Ver Receita](receitas/nhoque-de-batata.md) `[Massa]` `[Clássico]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](receitas/rosquinha-de-queijo.md) `[Lanche]` `[Assado]`
 * **Tareco 🥞** - [Ver Receita](receitas/tareco.md) `[Lanche]` `[Café]`

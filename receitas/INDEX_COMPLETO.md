@@ -10,6 +10,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 | :--- | :---: | :---: | :---: | :--- |
 | [Bife à Parmegiana 🥩🍅](bife-a-parmegiana.md) | 🍕 Salgado / 🔥 Assado | 25 min ⏱️ | Fácil 🟢 | `[Clássico]` `[Carne]` `[Forno]` |
 | [Mexido de Banana 🍌](mexido-de-banana.md) | 🍰 Doce / 🍲 Outros | 15 min ⏱️ | Fácil 🟢 | `[Rápido]` `[Lanche]` `[Frigideira]` |
+| [Mousse de Limão com Chocolate 🍋🍫](mousse-de-limao-com-chocolate.md) | 🍰 Doce / ❄️ Gelado | 20 min ⏱️ | Fácil 🟢 | `[Doce]` `[Gelado]` `[Sobremesa]` |
 | [Rosquinha de Queijo 🧀](rosquinha-de-queijo.md) | 🍰 Doce / 🔥 Assado | 40 min ⏱️ | Fácil 🟢 | `[Lanche]` `[Queijo]` `[Assado]` |
 | [Tareco 🥞](tareco.md) | 🍰 Doce / 🍲 Outros | 40 min ⏱️ | Fácil 🟢 | `[Café da Manhã]` `[Lanche]` `[Frigideira]` |
 | [Lasanha de Carne Moída 🍝](lasanha-de-carne-moida.md) | 🍕 Salgado / 🔥 Assado | 45 min ⏱️ | Média 🟡 | `[Almoço de Domingo]` `[Massa]` `[Forno]` |
@@ -22,6 +23,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 ## 🍰 Doces
 
 * **Mexido de Banana 🍌** - [Ver Receita](mexido-de-banana.md) `[Rápido]` `[Lanche]` `[Frigideira]`
+* **Mousse de Limão com Chocolate 🍋🍫** - [Ver Receita](mousse-de-limao-com-chocolate.md) `[Doce]` `[Gelado]` `[Sobremesa]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](rosquinha-de-queijo.md) `[Lanche]` `[Queijo]` `[Assado]`
 * **Tareco 🥞** - [Ver Receita](tareco.md) `[Café da Manhã]` `[Lanche]` `[Frigideira]`
 
