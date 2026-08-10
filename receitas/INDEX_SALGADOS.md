@@ -16,4 +16,4 @@ Aqui você encontra os pratos principais salgados, assados, grelhados e acompanh
 
 ---
 
-[« Voltar para o Índice Geral](../INDEX.md)
+[« Voltar para o Índice Geral](../README.md)

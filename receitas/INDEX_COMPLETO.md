@@ -56,4 +56,4 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 
 ---
 
-📖 [« Voltar para o Índice Geral](../INDEX.md)
+📖 [« Voltar para o Índice Geral](../README.md)

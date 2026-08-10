@@ -36,4 +36,4 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 
 ---
 
-*Para aprender a cadastrar novas receitas e imagens no repositório, consulte as instruções no [README.md](../README.md).*
+*Para aprender a cadastrar novas receitas e imagens no repositório, consulte as instruções no [AGENTS.md](AGENTS.md).*

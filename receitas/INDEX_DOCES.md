@@ -11,4 +11,4 @@ Aqui você encontra as receitas mais doces e guloseimas da nossa família.
 
 ---
 
-[« Voltar para o Índice Geral](../INDEX.md)
+[« Voltar para o Índice Geral](../README.md)
