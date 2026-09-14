@@ -31,6 +31,7 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 * **Mousse de Limão com Chocolate 🍋🍫** - [Ver Receita](receitas/mousse-de-limao-com-chocolate.md) `[Doce]` `[Gelado]`
 * **Mousse de Maracujá com Chocolate 🍈🍫** - [Ver Receita](receitas/mousse-de-maracuja-com-chocolate.md) `[Doce]` `[Gelado]`
 * **Nhoque de Batata 🥔** - [Ver Receita](receitas/nhoque-de-batata.md) `[Massa]` `[Clássico]`
+* **Pão de Queijo Mineiro Tradicional 🧀🥖** - [Ver Receita](receitas/pao-de-queijo-mineiro.md) `[Salgado]` `[Assado]` `[Lanche]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](receitas/rosquinha-de-queijo.md) `[Lanche]` `[Assado]`
 * **Tareco 🥞** - [Ver Receita](receitas/tareco.md) `[Lanche]` `[Café]`
 

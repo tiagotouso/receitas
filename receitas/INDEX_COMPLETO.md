@@ -20,6 +20,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 | [Macarrão fresco com tomates pelados 🍝](macarrao-fresco-com-tomates-pelados.md) | 🍕 Salgado / 🍲 Outros | 45 min ⏱️ | Fácil 🟢 | `[Clássico]` `[Massa]` `[Rápido]` |
 | [Fraldinha na Pressão com Aligot 🍖](fraldinha-na-pressao-com-aligot.md) | 🍕 Salgado / 🍲 Outros | 60 min ⏱️ | Avançada 🔴 | `[Especial]` `[Carne]` `[Queijo]` `[Pressão]` |
 | [Coxa e Sobrecoxa de Frango com Creme de Milho 🍗🌽](frango-assado-com-creme-de-milho.md) | 🍕 Salgado / 🔥 Assado | 60 min ⏱️ | Média 🟡 | `[Conforto]` `[Aves]` `[Forno]` |
+| [Pão de Queijo Mineiro Tradicional 🧀🥖](pao-de-queijo-mineiro.md) | 🍕 Salgado / 🔥 Assado | 50 min ⏱️ | Fácil 🟢 | `[Salgado]` `[Queijo]` `[Forno]` `[Lanche]` |
 
 ---
 
@@ -43,6 +44,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Lombo Suíno ao Molho de Laranja 🍖🍊** - [Ver Receita](lombo-suino-ao-molho-de-laranja.md) `[Especial]` `[Carne]` `[Forno]`
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]` `[Rápido]`
 * **Nhoque de Batata 🥔** - [Ver Receita](nhoque-de-batata.md) `[Massa]` `[Clássico]` `[Almoço]`
+* **Pão de Queijo Mineiro Tradicional 🧀🥖** - [Ver Receita](pao-de-queijo-mineiro.md) `[Salgado]` `[Queijo]` `[Café]` `[Lanche]`
 
 ---
 
@@ -52,6 +54,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](frango-assado-com-creme-de-milho.md) `[Conforto]` `[Aves]` `[Forno]`
 * **Lasanha de Carne Moída 🍝** - [Ver Receita](lasanha-de-carne-moida.md) `[Almoço de Domingo]` `[Massa]` `[Forno]`
 * **Lombo Suíno ao Molho de Laranja 🍖🍊** - [Ver Receita](lombo-suino-ao-molho-de-laranja.md) `[Especial]` `[Carne]` `[Forno]`
+* **Pão de Queijo Mineiro Tradicional 🧀🥖** - [Ver Receita](pao-de-queijo-mineiro.md) `[Salgado]` `[Assado]` `[Queijo]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](rosquinha-de-queijo.md) `[Lanche]` `[Queijo]` `[Assado]`
 
 ---

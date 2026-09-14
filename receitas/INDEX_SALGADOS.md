@@ -11,6 +11,7 @@ Aqui você encontra os pratos principais salgados, assados, grelhados e acompanh
 - [Lombo Suíno ao Molho de Laranja 🍖🍊](lombo-suino-ao-molho-de-laranja.md) *(Salgado / Carne / Assado)*
 - [Macarrão fresco com tomates pelados 🍝](macarrao-fresco-com-tomates-pelados.md) *(Salgado / Massa)*
 - [Nhoque de Batata 🥔](nhoque-de-batata.md) *(Salgado / Massa)*
+- [Pão de Queijo Mineiro Tradicional 🧀🥖](pao-de-queijo-mineiro.md) *(Salgado / Assado / Café / Lanche)*
 
 
 
