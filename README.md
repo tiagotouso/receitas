@@ -26,6 +26,7 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 * **Almôndegas da Vovó ao Molho de Tomate 🧆🍅** - [Ver Receita](receitas/almondegas-da-vovo.md) `[Carne]`
 * **Bife à Parmegiana 🥩🍅** - [Ver Receita](receitas/bife-a-parmegiana.md) `[Clássico]` `[Carne]`
 * **Bolo de Cenoura 🥕🍫** - [Ver Receita](receitas/bolo-de-cenoura.md) `[Bolo]` `[Assado]`
+* **Bolo de Iogurte Fofinho 🍰🥛** - [Ver Receita](receitas/bolo-de-iogurte.md) `[Bolo]` `[Assado]` `[Café da Manhã]`
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](receitas/frango-assado-com-creme-de-milho.md) `[Aves]`
 * **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](receitas/fraldinha-na-pressao-com-aligot.md) `[Carne]` `[Pressão]` `[Queijo]`
 * **Hambúrguer de Picanha com Bacon e Ovo 🍔🥓🍳** - [Ver Receita](receitas/hamburguer-artesanal-de-picanha.md) `[Carne]` `[Lanche]`
