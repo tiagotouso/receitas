@@ -20,25 +20,22 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 
 ## 🍽️ Lista Completa de Receitas (Acesso Direto)
 
-* **Bife à Parmegiana 🥩🍅** - [Ver Receita](receitas/bife-a-parmegiana.md) `[Clássico]` `[Forno]`
-* **Bolo de Cenoura 🥕🍫** - [Ver Receita](receitas/bolo-de-cenoura.md) `[Doce]` `[Assado]` `[Bolo]`
-* **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](receitas/frango-assado-com-creme-de-milho.md) `[Conforto]` `[Forno]`
-* **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](receitas/fraldinha-na-pressao-com-aligot.md) `[Especial]` `[Pressão]`
-* **Lasanha de Carne Moída 🍝** - [Ver Receita](receitas/lasanha-de-carne-moida.md) `[Almoço]` `[Forno]`
-* **Lombo Suíno ao Molho de Laranja 🍖🍊** - [Ver Receita](receitas/lombo-suino-ao-molho-de-laranja.md) `[Salgado]` `[Forno]`
-* **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](receitas/macarrao-fresco-com-tomates-pelados.md) `[Rápido]` `[Clássico]`
-* **Mexido de Banana 🍌** - [Ver Receita](receitas/mexido-de-banana.md) `[Rápido]` `[Lanche]`
-* **Mousse de Limão com Chocolate 🍋🍫** - [Ver Receita](receitas/mousse-de-limao-com-chocolate.md) `[Doce]` `[Gelado]`
-* **Mousse de Maracujá com Chocolate 🍈🍫** - [Ver Receita](receitas/mousse-de-maracuja-com-chocolate.md) `[Doce]` `[Gelado]`
-* **Nhoque de Batata 🥔** - [Ver Receita](receitas/nhoque-de-batata.md) `[Massa]` `[Clássico]`
-* **Pão de Queijo Mineiro Tradicional 🧀🥖** - [Ver Receita](receitas/pao-de-queijo-mineiro.md) `[Salgado]` `[Assado]` `[Lanche]`
-* **Rosquinha de Queijo 🧀** - [Ver Receita](receitas/rosquinha-de-queijo.md) `[Lanche]` `[Assado]`
-* **Tareco 🥞** - [Ver Receita](receitas/tareco.md) `[Lanche]` `[Café]`
 
 
 
+* **Almôndegas da Vovó ao Molho de Tomate 🧆🍅** - [Ver Receita](receitas/almondegas-da-vovo.md) `[Carne]`
+* **Bife à Parmegiana 🥩🍅** - [Ver Receita](receitas/bife-a-parmegiana.md) `[Clássico]` `[Carne]`
+* **Bolo de Cenoura 🥕🍫** - [Ver Receita](receitas/bolo-de-cenoura.md) `[Bolo]` `[Assado]`
+* **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](receitas/frango-assado-com-creme-de-milho.md) `[Aves]`
+* **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](receitas/fraldinha-na-pressao-com-aligot.md) `[Carne]` `[Pressão]` `[Queijo]`
+* **Lasanha de Carne Moída 🍝** - [Ver Receita](receitas/lasanha-de-carne-moida.md) `[Carne]` `[Massa]`
+* **Lombo Suíno ao Molho de Laranja 🍖🍊** - [Ver Receita](receitas/lombo-suino-ao-molho-de-laranja.md) `[Carne]` `[Forno]`
+* **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](receitas/macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]`
+* **Mexido de banana 🍌** - [Ver Receita](receitas/mexido-de-banana.md) `[Lanche]`
+* **Mousse de Limão com Chocolate 🍋🍫** - [Ver Receita](receitas/mousse-de-limao-com-chocolate.md) `[Chocolate]` `[Doce]` `[Gelado]`
+* **Mousse de Maracujá com Chocolate 🍈🍫** - [Ver Receita](receitas/mousse-de-maracuja-com-chocolate.md) `[Chocolate]` `[Doce]` `[Gelado]`
+* **Nhoque de Batata 🥔** - [Ver Receita](receitas/nhoque-de-batata.md) `[Clássico]` `[Massa]`
+* **Pão de Queijo Mineiro Tradicional 🧀 🥖** - [Ver Receita](receitas/pao-de-queijo-mineiro.md) `[Forno]` `[Queijo]` `[Lanche]`
+* **Rosquinha de Queijo 🧀** - [Ver Receita](receitas/rosquinha-de-queijo.md) `[Queijo]` `[Assado]`
+* **Tareco 🥞** - [Ver Receita](receitas/tareco.md) `[Doce]` `[Bolacha]`
 
-
----
-
-*Para aprender a cadastrar novas receitas e imagens no repositório, consulte as instruções no [AGENTS.md](AGENTS.md).*
