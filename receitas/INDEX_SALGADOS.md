@@ -8,6 +8,7 @@ Aqui você encontra os pratos principais salgados, assados, grelhados e acompanh
 - [Bife à Parmegiana 🥩🍅](bife-a-parmegiana.md) *(Carnes / Salgado)*
 - [Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽](frango-assado-com-creme-de-milho.md) *(Salgado / Prato Principal / Aves)*
 - [Fraldinha na Pressão com Aligot 🍖](fraldinha-na-pressao-com-aligot.md) *(Salgado / Carne Bovina / Acompanhamento / Panela de Pressão)*
+- [Hambúrguer de Picanha com Bacon e Ovo 🍔🥓🍳](hamburguer-artesanal-de-picanha.md) *(Salgado / Lanches / Carnes)*
 - [Lasanha de Carne Moída 🍝](lasanha-de-carne-moida.md) *(Salgado / Massas / Prato Principal)*
 - [Lombo Suíno ao Molho de Laranja 🍖🍊](lombo-suino-ao-molho-de-laranja.md) *(Salgado / Prato Principal / Forno)*
 - [Macarrão fresco com tomates pelados 🍝](macarrao-fresco-com-tomates-pelados.md) *(Salgado / Massas)*

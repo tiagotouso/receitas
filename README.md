@@ -28,6 +28,7 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 * **Bolo de Cenoura 🥕🍫** - [Ver Receita](receitas/bolo-de-cenoura.md) `[Bolo]` `[Assado]`
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](receitas/frango-assado-com-creme-de-milho.md) `[Aves]`
 * **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](receitas/fraldinha-na-pressao-com-aligot.md) `[Carne]` `[Pressão]` `[Queijo]`
+* **Hambúrguer de Picanha com Bacon e Ovo 🍔🥓🍳** - [Ver Receita](receitas/hamburguer-artesanal-de-picanha.md) `[Carne]` `[Lanche]`
 * **Lasanha de Carne Moída 🍝** - [Ver Receita](receitas/lasanha-de-carne-moida.md) `[Carne]` `[Massa]`
 * **Lombo Suíno ao Molho de Laranja 🍖🍊** - [Ver Receita](receitas/lombo-suino-ao-molho-de-laranja.md) `[Carne]` `[Forno]`
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](receitas/macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]`

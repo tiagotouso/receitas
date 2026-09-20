@@ -13,6 +13,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 | [Bolo de Cenoura 🥕🍫](bolo-de-cenoura.md) | 🍰 Doce / 🔥 Assado | 40 min ⏱️ | Fácil 🟢 | `[Bolo]` `[Assado]` |
 | [Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽](frango-assado-com-creme-de-milho.md) | 🍕 Salgado / 🔥 Assado | 60 min ⏱️ | Média 🟡 | `[Aves]` |
 | [Fraldinha na Pressão com Aligot 🍖](fraldinha-na-pressao-com-aligot.md) | 🍕 Salgado / 🍲 Outros | 60 min ⏱️ | Avançada 🔴 | `[Carne]` `[Pressão]` `[Queijo]` |
+| [Hambúrguer de Picanha com Bacon e Ovo 🍔🥓🍳](hamburguer-artesanal-de-picanha.md) | 🍕 Salgado / 🍲 Outros | 25 min ⏱️ | Fácil 🟢 | `[Carne]` `[Lanche]` |
 | [Lasanha de Carne Moída 🍝](lasanha-de-carne-moida.md) | 🍕 Salgado / 🔥 Assado | 45 min ⏱️ | Média 🟡 | `[Carne]` `[Massa]` |
 | [Lombo Suíno ao Molho de Laranja 🍖🍊](lombo-suino-ao-molho-de-laranja.md) | 🍕 Salgado / 🔥 Assado | 80 min ⏱️ | Média 🟡 | `[Carne]` `[Forno]` |
 | [Macarrão fresco com tomates pelados 🍝](macarrao-fresco-com-tomates-pelados.md) | 🍕 Salgado / 🍲 Outros | 45 min ⏱️ | Média 🟡 | `[Clássico]` `[Massa]` |
@@ -43,6 +44,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Bife à Parmegiana 🥩🍅** - [Ver Receita](bife-a-parmegiana.md) `[Clássico]` `[Carne]`
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](frango-assado-com-creme-de-milho.md) `[Aves]`
 * **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](fraldinha-na-pressao-com-aligot.md) `[Carne]` `[Pressão]` `[Queijo]`
+* **Hambúrguer de Picanha com Bacon e Ovo 🍔🥓🍳** - [Ver Receita](hamburguer-artesanal-de-picanha.md) `[Carne]` `[Lanche]`
 * **Lasanha de Carne Moída 🍝** - [Ver Receita](lasanha-de-carne-moida.md) `[Carne]` `[Massa]`
 * **Lombo Suíno ao Molho de Laranja 🍖🍊** - [Ver Receita](lombo-suino-ao-molho-de-laranja.md) `[Carne]` `[Forno]`
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]`
@@ -68,6 +70,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 
 * **Almôndegas da Vovó ao Molho de Tomate 🧆🍅** - [Ver Receita](almondegas-da-vovo.md) `[Carne]`
 * **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](fraldinha-na-pressao-com-aligot.md) `[Carne]` `[Pressão]` `[Queijo]`
+* **Hambúrguer de Picanha com Bacon e Ovo 🍔🥓🍳** - [Ver Receita](hamburguer-artesanal-de-picanha.md) `[Carne]` `[Lanche]`
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]`
 * **Mexido de banana 🍌** - [Ver Receita](mexido-de-banana.md) `[Lanche]`
 * **Tareco 🥞** - [Ver Receita](tareco.md) `[Doce]` `[Bolacha]`
