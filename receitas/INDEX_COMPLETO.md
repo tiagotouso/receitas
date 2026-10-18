@@ -24,6 +24,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 | [Nhoque de Batata 🥔](nhoque-de-batata.md) | 🍕 Salgado / 🔥 Assado | 45 min ⏱️ | Média 🟡 | `[Clássico]` `[Massa]` |
 | [Panacota Tradicional com Frutas Vermelhas 🍮🍓](panacota.md) | 🍰 Doce / ❄️ Gelado | 25 min ⏱️ | Fácil 🟢 | `[Doce]` `[Gelado]` `[Sobremesa]` |
 | [Pão de Queijo Mineiro Tradicional 🧀 🥖](pao-de-queijo-mineiro.md) | 🍕 Salgado / 🔥 Assado | 50 min ⏱️ | Média 🟡 | `[Forno]` `[Queijo]` `[Lanche]` |
+| [Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟](risoto-de-limao-siciliano-com-salmao.md) | 🍕 Salgado / 🍲 Outros | 45 min ⏱️ | Média 🟡 | `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]` |
 | [Rosquinha de Queijo 🧀](rosquinha-de-queijo.md) | 🍰 Doce / 🔥 Assado | 40 min ⏱️ | Fácil 🟢 | `[Queijo]` `[Assado]` |
 | [Tareco 🥞](tareco.md) | 🍰 Doce / 🍲 Outros | 40 min ⏱️ | Fácil 🟢 | `[Doce]` `[Bolacha]` |
 | [Torta de Frango de Liquidificador 🥧🍗](torta-de-frango-de-liquidificador.md) | 🍕 Salgado / 🔥 Assado | 50 min ⏱️ | Média 🟡 | `[Aves]` `[Forno]` |
@@ -55,6 +56,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]`
 * **Nhoque de Batata 🥔** - [Ver Receita](nhoque-de-batata.md) `[Clássico]` `[Massa]`
 * **Pão de Queijo Mineiro Tradicional 🧀 🥖** - [Ver Receita](pao-de-queijo-mineiro.md) `[Forno]` `[Queijo]` `[Lanche]`
+* **Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟** - [Ver Receita](risoto-de-limao-siciliano-com-salmao.md) `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]`
 * **Torta de Frango de Liquidificador 🥧🍗** - [Ver Receita](torta-de-frango-de-liquidificador.md) `[Aves]` `[Forno]`
 
 ---
@@ -81,6 +83,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Hambúrguer de Picanha com Bacon e Ovo 🍔🥓🍳** - [Ver Receita](hamburguer-artesanal-de-picanha.md) `[Carne]` `[Lanche]`
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]`
 * **Mexido de banana 🍌** - [Ver Receita](mexido-de-banana.md) `[Lanche]`
+* **Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟** - [Ver Receita](risoto-de-limao-siciliano-com-salmao.md) `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]`
 * **Tareco 🥞** - [Ver Receita](tareco.md) `[Doce]` `[Bolacha]`
 
 ---
