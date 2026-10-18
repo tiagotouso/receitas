@@ -22,10 +22,11 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 | [Mousse de Limão com Chocolate 🍋🍫](mousse-de-limao-com-chocolate.md) | 🍰 Doce / ❄️ Gelado | 20 min ⏱️ | Fácil 🟢 | `[Chocolate]` `[Doce]` `[Gelado]` `[Sobremesa]` |
 | [Mousse de Maracujá com Chocolate 🍈🍫](mousse-de-maracuja-com-chocolate.md) | 🍰 Doce / ❄️ Gelado | 20 min ⏱️ | Fácil 🟢 | `[Chocolate]` `[Doce]` `[Gelado]` `[Sobremesa]` |
 | [Nhoque de Batata 🥔](nhoque-de-batata.md) | 🍕 Salgado / 🔥 Assado | 45 min ⏱️ | Média 🟡 | `[Clássico]` `[Massa]` |
-| [Panacota Tradicional com Frutas Vermelhas 🍮🍓](panacota.md) | 🍰 Doce / ❄️ Gelado | 25 min ⏱️ | Fácil 🟢 | `[Doce]` `[Sobremesa]` `[Gelado]` `[Italiano]` |
+| [Panacota Tradicional com Frutas Vermelhas 🍮🍓](panacota.md) | 🍰 Doce / ❄️ Gelado | 25 min ⏱️ | Fácil 🟢 | `[Doce]` `[Gelado]` `[Sobremesa]` |
 | [Pão de Queijo Mineiro Tradicional 🧀 🥖](pao-de-queijo-mineiro.md) | 🍕 Salgado / 🔥 Assado | 50 min ⏱️ | Média 🟡 | `[Forno]` `[Queijo]` `[Lanche]` |
 | [Rosquinha de Queijo 🧀](rosquinha-de-queijo.md) | 🍰 Doce / 🔥 Assado | 40 min ⏱️ | Fácil 🟢 | `[Queijo]` `[Assado]` |
 | [Tareco 🥞](tareco.md) | 🍰 Doce / 🍲 Outros | 40 min ⏱️ | Fácil 🟢 | `[Doce]` `[Bolacha]` |
+| [Torta de Frango de Liquidificador 🥧🍗](torta-de-frango-de-liquidificador.md) | 🍕 Salgado / 🔥 Assado | 50 min ⏱️ | Média 🟡 | `[Aves]` `[Forno]` |
 
 ---
 
@@ -36,7 +37,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Mexido de banana 🍌** - [Ver Receita](mexido-de-banana.md) `[Lanche]`
 * **Mousse de Limão com Chocolate 🍋🍫** - [Ver Receita](mousse-de-limao-com-chocolate.md) `[Chocolate]` `[Doce]` `[Gelado]`
 * **Mousse de Maracujá com Chocolate 🍈🍫** - [Ver Receita](mousse-de-maracuja-com-chocolate.md) `[Chocolate]` `[Doce]` `[Gelado]`
-* **Panacota Tradicional com Frutas Vermelhas 🍮🍓** - [Ver Receita](panacota.md) `[Doce]` `[Sobremesa]` `[Gelado]`
+* **Panacota Tradicional com Frutas Vermelhas 🍮🍓** - [Ver Receita](panacota.md) `[Doce]` `[Gelado]` `[Sobremesa]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](rosquinha-de-queijo.md) `[Queijo]` `[Assado]`
 * **Tareco 🥞** - [Ver Receita](tareco.md) `[Doce]` `[Bolacha]`
 
@@ -54,6 +55,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]`
 * **Nhoque de Batata 🥔** - [Ver Receita](nhoque-de-batata.md) `[Clássico]` `[Massa]`
 * **Pão de Queijo Mineiro Tradicional 🧀 🥖** - [Ver Receita](pao-de-queijo-mineiro.md) `[Forno]` `[Queijo]` `[Lanche]`
+* **Torta de Frango de Liquidificador 🥧🍗** - [Ver Receita](torta-de-frango-de-liquidificador.md) `[Aves]` `[Forno]`
 
 ---
 
@@ -68,6 +70,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Nhoque de Batata 🥔** - [Ver Receita](nhoque-de-batata.md) `[Clássico]` `[Massa]`
 * **Pão de Queijo Mineiro Tradicional 🧀 🥖** - [Ver Receita](pao-de-queijo-mineiro.md) `[Forno]` `[Queijo]` `[Lanche]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](rosquinha-de-queijo.md) `[Queijo]` `[Assado]`
+* **Torta de Frango de Liquidificador 🥧🍗** - [Ver Receita](torta-de-frango-de-liquidificador.md) `[Aves]` `[Forno]`
 
 ---
 

@@ -37,8 +37,9 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 * **Mousse de Limão com Chocolate 🍋🍫** - [Ver Receita](receitas/mousse-de-limao-com-chocolate.md) `[Chocolate]` `[Doce]` `[Gelado]`
 * **Mousse de Maracujá com Chocolate 🍈🍫** - [Ver Receita](receitas/mousse-de-maracuja-com-chocolate.md) `[Chocolate]` `[Doce]` `[Gelado]`
 * **Nhoque de Batata 🥔** - [Ver Receita](receitas/nhoque-de-batata.md) `[Clássico]` `[Massa]`
-* **Panacota Tradicional com Frutas Vermelhas 🍮🍓** - [Ver Receita](receitas/panacota.md) `[Doce]` `[Sobremesa]` `[Gelado]`
+* **Panacota Tradicional com Frutas Vermelhas 🍮🍓** - [Ver Receita](receitas/panacota.md) `[Doce]` `[Gelado]` `[Sobremesa]`
 * **Pão de Queijo Mineiro Tradicional 🧀 🥖** - [Ver Receita](receitas/pao-de-queijo-mineiro.md) `[Forno]` `[Queijo]` `[Lanche]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](receitas/rosquinha-de-queijo.md) `[Queijo]` `[Assado]`
 * **Tareco 🥞** - [Ver Receita](receitas/tareco.md) `[Doce]` `[Bolacha]`
+* **Torta de Frango de Liquidificador 🥧🍗** - [Ver Receita](receitas/torta-de-frango-de-liquidificador.md) `[Aves]` `[Forno]`
 

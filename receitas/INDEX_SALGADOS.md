@@ -14,6 +14,7 @@ Aqui você encontra os pratos principais salgados, assados, grelhados e acompanh
 - [Macarrão fresco com tomates pelados 🍝](macarrao-fresco-com-tomates-pelados.md) *(Salgado / Massas)*
 - [Nhoque de Batata 🥔](nhoque-de-batata.md) *(Salgado / Massa)*
 - [Pão de Queijo Mineiro Tradicional 🧀 🥖](pao-de-queijo-mineiro.md) *(Salgado / Assado / Café da Manhã / Lanche)*
+- [Torta de Frango de Liquidificador 🥧🍗](torta-de-frango-de-liquidificador.md) *(Salgado / Tortas / Aves / Forno)*
 
 ---
 
