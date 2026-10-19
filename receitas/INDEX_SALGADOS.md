@@ -5,6 +5,7 @@ Aqui você encontra os pratos principais salgados, assados, grelhados e acompanh
 ---
 
 - [Almôndegas da Vovó ao Molho de Tomate 🧆🍅](almondegas-da-vovo.md) *(Salgado / Carnes / Prato Principal)*
+- [Bacalhau ao Leite de Coco 🐟🥥](bacalhau-ao-leite-de-coco.md) *(Salgado / Peixes e Frutos do Mar / Prato Principal)*
 - [Bife à Parmegiana 🥩🍅](bife-a-parmegiana.md) *(Carnes / Salgado)*
 - [Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽](frango-assado-com-creme-de-milho.md) *(Salgado / Prato Principal / Aves)*
 - [Fraldinha na Pressão com Aligot 🍖](fraldinha-na-pressao-com-aligot.md) *(Salgado / Carne Bovina / Acompanhamento / Panela de Pressão)*
@@ -13,9 +14,10 @@ Aqui você encontra os pratos principais salgados, assados, grelhados e acompanh
 - [Lombo Suíno ao Molho de Laranja 🍖🍊](lombo-suino-ao-molho-de-laranja.md) *(Salgado / Prato Principal / Forno)*
 - [Macarrão fresco com tomates pelados 🍝](macarrao-fresco-com-tomates-pelados.md) *(Salgado / Massas)*
 - [Nhoque de Batata 🥔](nhoque-de-batata.md) *(Salgado / Massa)*
+- [Paella Tradicional de Frutos do Mar 🥘🦐🦑](paella-tradicional.md) *(Salgado / Espanhola / Peixes e Frutos do Mar / Arroz)*
 - [Pão de Queijo Mineiro Tradicional 🧀 🥖](pao-de-queijo-mineiro.md) *(Salgado / Assado / Café da Manhã / Lanche)*
 - [Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟](risoto-de-limao-siciliano-com-salmao.md) *(Salgado / Risotos / Peixes e Frutos do Mar)*
-- [Strogonoff de Carne com Champignon 🥩🍄](strogonoff-de-carne-com-champignon.md) *(Carnes / Clássicos / Salgados)*
+- [Strogonoff de Carne com Champignon 🥩🍄](strogonoff-de-carne-com-champignon.md) *(Carnes / Clássicos / Salgado)*
 - [Torta de Frango de Liquidificador 🥧🍗](torta-de-frango-de-liquidificador.md) *(Salgado / Tortas / Aves / Forno)*
 
 ---

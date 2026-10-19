@@ -9,6 +9,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 | Prato | Categoria | Tempo | Dificuldade | Tags |
 | :--- | :---: | :---: | :---: | :--- |
 | [Almôndegas da Vovó ao Molho de Tomate 🧆🍅](almondegas-da-vovo.md) | 🍕 Salgado / 🍲 Outros | 45 min ⏱️ | Média 🟡 | `[Carne]` |
+| [Bacalhau ao Leite de Coco 🐟🥥](bacalhau-ao-leite-de-coco.md) | 🍕 Salgado / 🍲 Outros | 45 min ⏱️ | Média 🟡 | `[Salgado]` `[Peixes e Frutos do Mar]` `[Prato Principal]` |
 | [Bife à Parmegiana 🥩🍅](bife-a-parmegiana.md) | 🍕 Salgado / 🔥 Assado | 25 min ⏱️ | Fácil 🟢 | `[Clássico]` `[Carne]` |
 | [Bolo de Cenoura 🥕🍫](bolo-de-cenoura.md) | 🍰 Doce / 🔥 Assado | 40 min ⏱️ | Fácil 🟢 | `[Bolo]` `[Assado]` |
 | [Bolo de Iogurte Fofinho 🍰🥛](bolo-de-iogurte.md) | 🍰 Doce / 🔥 Assado | 45 min ⏱️ | Média 🟡 | `[Bolo]` `[Assado]` `[Café da Manhã]` |
@@ -22,11 +23,12 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 | [Mousse de Limão com Chocolate 🍋🍫](mousse-de-limao-com-chocolate.md) | 🍰 Doce / ❄️ Gelado | 20 min ⏱️ | Fácil 🟢 | `[Chocolate]` `[Doce]` `[Gelado]` `[Sobremesa]` |
 | [Mousse de Maracujá com Chocolate 🍈🍫](mousse-de-maracuja-com-chocolate.md) | 🍰 Doce / ❄️ Gelado | 20 min ⏱️ | Fácil 🟢 | `[Chocolate]` `[Doce]` `[Gelado]` `[Sobremesa]` |
 | [Nhoque de Batata 🥔](nhoque-de-batata.md) | 🍕 Salgado / 🔥 Assado | 45 min ⏱️ | Média 🟡 | `[Clássico]` `[Massa]` |
+| [Paella Tradicional de Frutos do Mar 🥘🦐🦑](paella-tradicional.md) | 🍕 Salgado / 🍲 Outros | 50 min ⏱️ | Média 🟡 | `[Salgado]` `[Espanhola]` `[Peixes e Frutos do Mar]` `[Arroz]` |
 | [Panacota Tradicional com Frutas Vermelhas 🍮🍓](panacota.md) | 🍰 Doce / ❄️ Gelado | 25 min ⏱️ | Fácil 🟢 | `[Doce]` `[Gelado]` `[Sobremesa]` |
 | [Pão de Queijo Mineiro Tradicional 🧀 🥖](pao-de-queijo-mineiro.md) | 🍕 Salgado / 🔥 Assado | 50 min ⏱️ | Média 🟡 | `[Forno]` `[Queijo]` `[Lanche]` |
 | [Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟](risoto-de-limao-siciliano-com-salmao.md) | 🍕 Salgado / 🍲 Outros | 45 min ⏱️ | Média 🟡 | `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]` |
 | [Rosquinha de Queijo 🧀](rosquinha-de-queijo.md) | 🍰 Doce / 🔥 Assado | 40 min ⏱️ | Fácil 🟢 | `[Queijo]` `[Assado]` |
-| [Strogonoff de Carne com Champignon 🥩🍄](strogonoff-de-carne-com-champignon.md) | 🍕 Salgado / 🍲 Outros | 35 min ⏱️ | Média 🟡 | `[Carne]` `[Clássico]` |
+| [Strogonoff de Carne com Champignon 🥩🍄](strogonoff-de-carne-com-champignon.md) | 🍕 Salgado / 🍲 Outros | 35 min ⏱️ | Fácil 🟢 | `[Clássico]` `[Carne]` |
 | [Tareco 🥞](tareco.md) | 🍰 Doce / 🍲 Outros | 40 min ⏱️ | Fácil 🟢 | `[Doce]` `[Bolacha]` |
 | [Torta de Frango de Liquidificador 🥧🍗](torta-de-frango-de-liquidificador.md) | 🍕 Salgado / 🔥 Assado | 50 min ⏱️ | Média 🟡 | `[Aves]` `[Forno]` |
 
@@ -48,6 +50,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 ## 🍕 Salgados
 
 * **Almôndegas da Vovó ao Molho de Tomate 🧆🍅** - [Ver Receita](almondegas-da-vovo.md) `[Carne]`
+* **Bacalhau ao Leite de Coco 🐟🥥** - [Ver Receita](bacalhau-ao-leite-de-coco.md) `[Salgado]` `[Peixes e Frutos do Mar]` `[Prato Principal]`
 * **Bife à Parmegiana 🥩🍅** - [Ver Receita](bife-a-parmegiana.md) `[Clássico]` `[Carne]`
 * **Coxa e Sobrecoxa de Frango Assadas com Creme de Milho 🍗🌽** - [Ver Receita](frango-assado-com-creme-de-milho.md) `[Aves]`
 * **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](fraldinha-na-pressao-com-aligot.md) `[Carne]` `[Pressão]` `[Queijo]`
@@ -56,9 +59,10 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Lombo Suíno ao Molho de Laranja 🍖🍊** - [Ver Receita](lombo-suino-ao-molho-de-laranja.md) `[Carne]` `[Forno]`
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]`
 * **Nhoque de Batata 🥔** - [Ver Receita](nhoque-de-batata.md) `[Clássico]` `[Massa]`
+* **Paella Tradicional de Frutos do Mar 🥘🦐🦑** - [Ver Receita](paella-tradicional.md) `[Salgado]` `[Espanhola]` `[Peixes e Frutos do Mar]`
 * **Pão de Queijo Mineiro Tradicional 🧀 🥖** - [Ver Receita](pao-de-queijo-mineiro.md) `[Forno]` `[Queijo]` `[Lanche]`
 * **Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟** - [Ver Receita](risoto-de-limao-siciliano-com-salmao.md) `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]`
-* **Strogonoff de Carne com Champignon 🥩🍄** - [Ver Receita](strogonoff-de-carne-com-champignon.md) `[Carne]` `[Clássico]`
+* **Strogonoff de Carne com Champignon 🥩🍄** - [Ver Receita](strogonoff-de-carne-com-champignon.md) `[Clássico]` `[Carne]`
 * **Torta de Frango de Liquidificador 🥧🍗** - [Ver Receita](torta-de-frango-de-liquidificador.md) `[Aves]` `[Forno]`
 
 ---
@@ -81,12 +85,14 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 ## 🍲 Outros (Cozidos, Fritos, Panela)
 
 * **Almôndegas da Vovó ao Molho de Tomate 🧆🍅** - [Ver Receita](almondegas-da-vovo.md) `[Carne]`
+* **Bacalhau ao Leite de Coco 🐟🥥** - [Ver Receita](bacalhau-ao-leite-de-coco.md) `[Salgado]` `[Peixes e Frutos do Mar]` `[Prato Principal]`
 * **Fraldinha na Pressão com Aligot 🍖** - [Ver Receita](fraldinha-na-pressao-com-aligot.md) `[Carne]` `[Pressão]` `[Queijo]`
 * **Hambúrguer de Picanha com Bacon e Ovo 🍔🥓🍳** - [Ver Receita](hamburguer-artesanal-de-picanha.md) `[Carne]` `[Lanche]`
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]`
 * **Mexido de banana 🍌** - [Ver Receita](mexido-de-banana.md) `[Lanche]`
+* **Paella Tradicional de Frutos do Mar 🥘🦐🦑** - [Ver Receita](paella-tradicional.md) `[Salgado]` `[Espanhola]` `[Peixes e Frutos do Mar]`
 * **Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟** - [Ver Receita](risoto-de-limao-siciliano-com-salmao.md) `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]`
-* **Strogonoff de Carne com Champignon 🥩🍄** - [Ver Receita](strogonoff-de-carne-com-champignon.md) `[Carne]` `[Clássico]`
+* **Strogonoff de Carne com Champignon 🥩🍄** - [Ver Receita](strogonoff-de-carne-com-champignon.md) `[Clássico]` `[Carne]`
 * **Tareco 🥞** - [Ver Receita](tareco.md) `[Doce]` `[Bolacha]`
 
 ---

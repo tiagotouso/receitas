@@ -12,7 +12,7 @@
 ---
 
 ### 📷 Foto do Prato 🤤
-![Foto do prato](../imagens/c7e49f82-28a5-492e-9d22-1d54db3a8e10.png)  
+![Foto do prato](../imagens/f4852184-3778-47e3-a2bd-a5dc1b92248b.png)  
 
 ---
 

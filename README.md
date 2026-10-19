@@ -24,6 +24,7 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 
 
 * **Almôndegas da Vovó ao Molho de Tomate 🧆🍅** - [Ver Receita](receitas/almondegas-da-vovo.md) `[Carne]`
+* **Bacalhau ao Leite de Coco 🐟🥥** - [Ver Receita](receitas/bacalhau-ao-leite-de-coco.md) `[Salgado]` `[Peixes e Frutos do Mar]` `[Prato Principal]`
 * **Bife à Parmegiana 🥩🍅** - [Ver Receita](receitas/bife-a-parmegiana.md) `[Clássico]` `[Carne]`
 * **Bolo de Cenoura 🥕🍫** - [Ver Receita](receitas/bolo-de-cenoura.md) `[Bolo]` `[Assado]`
 * **Bolo de Iogurte Fofinho 🍰🥛** - [Ver Receita](receitas/bolo-de-iogurte.md) `[Bolo]` `[Assado]` `[Café da Manhã]`
@@ -37,11 +38,12 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 * **Mousse de Limão com Chocolate 🍋🍫** - [Ver Receita](receitas/mousse-de-limao-com-chocolate.md) `[Chocolate]` `[Doce]` `[Gelado]`
 * **Mousse de Maracujá com Chocolate 🍈🍫** - [Ver Receita](receitas/mousse-de-maracuja-com-chocolate.md) `[Chocolate]` `[Doce]` `[Gelado]`
 * **Nhoque de Batata 🥔** - [Ver Receita](receitas/nhoque-de-batata.md) `[Clássico]` `[Massa]`
+* **Paella Tradicional de Frutos do Mar 🥘🦐🦑** - [Ver Receita](receitas/paella-tradicional.md) `[Salgado]` `[Espanhola]` `[Peixes e Frutos do Mar]`
 * **Panacota Tradicional com Frutas Vermelhas 🍮🍓** - [Ver Receita](receitas/panacota.md) `[Doce]` `[Gelado]` `[Sobremesa]`
 * **Pão de Queijo Mineiro Tradicional 🧀 🥖** - [Ver Receita](receitas/pao-de-queijo-mineiro.md) `[Forno]` `[Queijo]` `[Lanche]`
 * **Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟** - [Ver Receita](receitas/risoto-de-limao-siciliano-com-salmao.md) `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](receitas/rosquinha-de-queijo.md) `[Queijo]` `[Assado]`
-* **Strogonoff de Carne com Champignon 🥩🍄** - [Ver Receita](receitas/strogonoff-de-carne-com-champignon.md) `[Carne]` `[Clássico]`
+* **Strogonoff de Carne com Champignon 🥩🍄** - [Ver Receita](receitas/strogonoff-de-carne-com-champignon.md) `[Clássico]` `[Carne]`
 * **Tareco 🥞** - [Ver Receita](receitas/tareco.md) `[Doce]` `[Bolacha]`
 * **Torta de Frango de Liquidificador 🥧🍗** - [Ver Receita](receitas/torta-de-frango-de-liquidificador.md) `[Aves]` `[Forno]`
 
