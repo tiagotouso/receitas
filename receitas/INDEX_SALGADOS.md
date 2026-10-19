@@ -14,7 +14,8 @@ Aqui você encontra os pratos principais salgados, assados, grelhados e acompanh
 - [Macarrão fresco com tomates pelados 🍝](macarrao-fresco-com-tomates-pelados.md) *(Salgado / Massas)*
 - [Nhoque de Batata 🥔](nhoque-de-batata.md) *(Salgado / Massa)*
 - [Pão de Queijo Mineiro Tradicional 🧀 🥖](pao-de-queijo-mineiro.md) *(Salgado / Assado / Café da Manhã / Lanche)*
-- [risoto-de-limao-siciliano-com-salmao](risoto-de-limao-siciliano-com-salmao.md) *(Salgado / Risotos / Peixes e Frutos do Mar)*
+- [Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟](risoto-de-limao-siciliano-com-salmao.md) *(Salgado / Risotos / Peixes e Frutos do Mar)*
+- [Strogonoff de Carne com Champignon 🥩🍄](strogonoff-de-carne-com-champignon.md) *(Carnes / Clássicos / Salgados)*
 - [Torta de Frango de Liquidificador 🥧🍗](torta-de-frango-de-liquidificador.md) *(Salgado / Tortas / Aves / Forno)*
 
 ---

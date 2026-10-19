@@ -26,6 +26,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 | [Pão de Queijo Mineiro Tradicional 🧀 🥖](pao-de-queijo-mineiro.md) | 🍕 Salgado / 🔥 Assado | 50 min ⏱️ | Média 🟡 | `[Forno]` `[Queijo]` `[Lanche]` |
 | [Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟](risoto-de-limao-siciliano-com-salmao.md) | 🍕 Salgado / 🍲 Outros | 45 min ⏱️ | Média 🟡 | `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]` |
 | [Rosquinha de Queijo 🧀](rosquinha-de-queijo.md) | 🍰 Doce / 🔥 Assado | 40 min ⏱️ | Fácil 🟢 | `[Queijo]` `[Assado]` |
+| [Strogonoff de Carne com Champignon 🥩🍄](strogonoff-de-carne-com-champignon.md) | 🍕 Salgado / 🍲 Outros | 35 min ⏱️ | Média 🟡 | `[Carne]` `[Clássico]` |
 | [Tareco 🥞](tareco.md) | 🍰 Doce / 🍲 Outros | 40 min ⏱️ | Fácil 🟢 | `[Doce]` `[Bolacha]` |
 | [Torta de Frango de Liquidificador 🥧🍗](torta-de-frango-de-liquidificador.md) | 🍕 Salgado / 🔥 Assado | 50 min ⏱️ | Média 🟡 | `[Aves]` `[Forno]` |
 
@@ -57,6 +58,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Nhoque de Batata 🥔** - [Ver Receita](nhoque-de-batata.md) `[Clássico]` `[Massa]`
 * **Pão de Queijo Mineiro Tradicional 🧀 🥖** - [Ver Receita](pao-de-queijo-mineiro.md) `[Forno]` `[Queijo]` `[Lanche]`
 * **Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟** - [Ver Receita](risoto-de-limao-siciliano-com-salmao.md) `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]`
+* **Strogonoff de Carne com Champignon 🥩🍄** - [Ver Receita](strogonoff-de-carne-com-champignon.md) `[Carne]` `[Clássico]`
 * **Torta de Frango de Liquidificador 🥧🍗** - [Ver Receita](torta-de-frango-de-liquidificador.md) `[Aves]` `[Forno]`
 
 ---
@@ -84,6 +86,7 @@ Este índice reúne todas as receitas cadastradas na nossa cozinha, organizadas 
 * **Macarrão fresco com tomates pelados 🍝** - [Ver Receita](macarrao-fresco-com-tomates-pelados.md) `[Clássico]` `[Massa]`
 * **Mexido de banana 🍌** - [Ver Receita](mexido-de-banana.md) `[Lanche]`
 * **Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟** - [Ver Receita](risoto-de-limao-siciliano-com-salmao.md) `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]`
+* **Strogonoff de Carne com Champignon 🥩🍄** - [Ver Receita](strogonoff-de-carne-com-champignon.md) `[Carne]` `[Clássico]`
 * **Tareco 🥞** - [Ver Receita](tareco.md) `[Doce]` `[Bolacha]`
 
 ---

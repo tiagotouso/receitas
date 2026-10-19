@@ -41,6 +41,7 @@ Use os atalhos abaixo para navegar pelas receitas completas, ou veja a lista ger
 * **Pão de Queijo Mineiro Tradicional 🧀 🥖** - [Ver Receita](receitas/pao-de-queijo-mineiro.md) `[Forno]` `[Queijo]` `[Lanche]`
 * **Risoto de Limão Siciliano com Salmão Grelhado 🍋🐟** - [Ver Receita](receitas/risoto-de-limao-siciliano-com-salmao.md) `[Salgado]` `[Risotos]` `[Peixes e Frutos do Mar]`
 * **Rosquinha de Queijo 🧀** - [Ver Receita](receitas/rosquinha-de-queijo.md) `[Queijo]` `[Assado]`
+* **Strogonoff de Carne com Champignon 🥩🍄** - [Ver Receita](receitas/strogonoff-de-carne-com-champignon.md) `[Carne]` `[Clássico]`
 * **Tareco 🥞** - [Ver Receita](receitas/tareco.md) `[Doce]` `[Bolacha]`
 * **Torta de Frango de Liquidificador 🥧🍗** - [Ver Receita](receitas/torta-de-frango-de-liquidificador.md) `[Aves]` `[Forno]`
 
